@@ -1,0 +1,10 @@
+C:\Users\gheir\source\repos\Section_1030\Section_1030\bin\Debug\Section_1030.exe.config
+C:\Users\gheir\source\repos\Section_1030\Section_1030\bin\Debug\Section_1030.exe
+C:\Users\gheir\source\repos\Section_1030\Section_1030\bin\Debug\Section_1030.pdb
+C:\Users\gheir\source\repos\Section_1030\Section_1030\obj\Debug\Section_1030.csprojAssemblyReference.cache
+C:\Users\gheir\source\repos\Section_1030\Section_1030\obj\Debug\Section_1030.Properties.Resources.resources
+C:\Users\gheir\source\repos\Section_1030\Section_1030\obj\Debug\Section_1030.csproj.GenerateResource.cache
+C:\Users\gheir\source\repos\Section_1030\Section_1030\obj\Debug\Section_1030.csproj.CoreCompileInputs.cache
+C:\Users\gheir\source\repos\Section_1030\Section_1030\obj\Debug\Section_1030.exe
+C:\Users\gheir\source\repos\Section_1030\Section_1030\obj\Debug\Section_1030.pdb
+C:\Users\gheir\source\repos\Section_1030\Section_1030\obj\Debug\Section_1030.Form1.resources
