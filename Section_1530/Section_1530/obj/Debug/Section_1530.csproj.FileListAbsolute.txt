@@ -1,0 +1,10 @@
+C:\Users\gheir\source\repos\Section_1530\Section_1530\bin\Debug\Section_1530.exe.config
+C:\Users\gheir\source\repos\Section_1530\Section_1530\bin\Debug\Section_1530.exe
+C:\Users\gheir\source\repos\Section_1530\Section_1530\bin\Debug\Section_1530.pdb
+C:\Users\gheir\source\repos\Section_1530\Section_1530\obj\Debug\Section_1530.csprojAssemblyReference.cache
+C:\Users\gheir\source\repos\Section_1530\Section_1530\obj\Debug\Section_1530.Properties.Resources.resources
+C:\Users\gheir\source\repos\Section_1530\Section_1530\obj\Debug\Section_1530.csproj.GenerateResource.cache
+C:\Users\gheir\source\repos\Section_1530\Section_1530\obj\Debug\Section_1530.csproj.CoreCompileInputs.cache
+C:\Users\gheir\source\repos\Section_1530\Section_1530\obj\Debug\Section_1530.exe
+C:\Users\gheir\source\repos\Section_1530\Section_1530\obj\Debug\Section_1530.pdb
+C:\Users\gheir\source\repos\Section_1530\Section_1530\obj\Debug\Section_1530.Form1.resources
