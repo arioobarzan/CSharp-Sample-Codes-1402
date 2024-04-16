@@ -1,0 +1,10 @@
+C:\Users\gheir\source\repos\string_worked\string_worked\bin\Debug\string_worked.exe.config
+C:\Users\gheir\source\repos\string_worked\string_worked\bin\Debug\string_worked.exe
+C:\Users\gheir\source\repos\string_worked\string_worked\bin\Debug\string_worked.pdb
+C:\Users\gheir\source\repos\string_worked\string_worked\obj\Debug\string_worked.csprojAssemblyReference.cache
+C:\Users\gheir\source\repos\string_worked\string_worked\obj\Debug\string_worked.Form1.resources
+C:\Users\gheir\source\repos\string_worked\string_worked\obj\Debug\string_worked.Properties.Resources.resources
+C:\Users\gheir\source\repos\string_worked\string_worked\obj\Debug\string_worked.csproj.GenerateResource.cache
+C:\Users\gheir\source\repos\string_worked\string_worked\obj\Debug\string_worked.csproj.CoreCompileInputs.cache
+C:\Users\gheir\source\repos\string_worked\string_worked\obj\Debug\string_worked.exe
+C:\Users\gheir\source\repos\string_worked\string_worked\obj\Debug\string_worked.pdb
